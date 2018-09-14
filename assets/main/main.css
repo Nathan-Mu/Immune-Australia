@@ -1,0 +1,95 @@
+.biased-anchor{
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+.custom-block{
+    margin-bottom: 2.5em;
+}
+
+.custom-title {
+    margin-top: 60px;
+}
+
+
+/*.disease-instruction .index-title {*/
+    /*list-style: none;*/
+    /*font-style: normal;*/
+    /*-webkit-margin-start:-40px*/
+/*}*/
+
+.disease-instruction .question-list {
+    /*list-style: square;*/
+    list-style: none;
+    -webkit-margin-start: -30px;
+}
+
+.block {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.error-msg {
+    color: red;
+}
+
+.lower-alpha-ul {
+    list-style-type: lower-alpha;
+}
+
+.immunisation-history .biased-anchor{
+    padding-top: 80px;
+    margin-top: -80px;
+}
+
+.immunisation-history .question-list {
+    /*list-style: square;*/
+    list-style: none;
+    -webkit-margin-start: -30px;
+}
+
+.bg {
+    background-color: #f8f8f8;
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.padding-all {
+    padding-bottom: 2em;
+    padding-top: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.margin-all {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.cancel-margin {
+    margin:0;
+}
+
+.padding-element {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+#what_is_immunisation {
+    justify-content: center;
+    margin-top: 3rem;
+}

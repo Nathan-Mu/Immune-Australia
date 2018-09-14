@@ -1,0 +1,11 @@
+.hidden-table {
+    visibility: hidden;
+}
+
+.new-window-heading {
+    padding-top: 30px;
+}
+
+.new-window {
+    padding: 20px;
+}
